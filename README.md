@@ -8,3 +8,6 @@ Program.cs is the client side program. Need to make changes so that the compress
 ## Server
 Used SimpleHTTPSUpload.py 
 [Link](https://github.com/HackLikeAPornstar/GibsonBird/blob/master/chapter5/simpleHTTPsUpload.py#L104)
+
+#Disclaimer
+I am not responsible with how and where you use this. 
